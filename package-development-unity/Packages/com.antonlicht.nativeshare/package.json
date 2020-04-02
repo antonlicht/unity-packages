@@ -1,13 +1,15 @@
 {
   "name": "com.antonlicht.nativeshare",
   "displayName": "Native Share",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "unity": "2020.1",
   "description": "This package provides essential features to easily share text, such as links or debugging information, on iOS, Android, and in the Unity Editor.",
-  "repository" : {
-    "type" : "git",
+  "repository": {
+    "type": "git",
     "url": "ssh://git@github.com/antonlicht/unity-packages.git",
     "directory": "package-development-unity/Packages/com.antonlicht.nativeshare"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@antonlicht"
+  }
 }
