@@ -1,7 +1,7 @@
 {
   "name": "com.antonlicht.nativeshare",
   "displayName": "Native Share",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "unity": "2020.1",
   "description": "This package provides essential features to easily share text, such as links or debugging information, on iOS, Android, and in the Unity Editor.",
   "repository": {
